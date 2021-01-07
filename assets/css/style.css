@@ -241,7 +241,7 @@ a {
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
-	content: url(assets/images/Layer9@1X.png)
+	content: url(../assets/images/Layer9@1X.png)
 }
 
 .container {
@@ -404,7 +404,7 @@ nav span {
 
 .banner {
 	height: 660px;
-	background: url(assets/images/bg@1X.png);
+	background: url(../assets/images/bg@1X.png);
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -445,7 +445,7 @@ nav span {
 }
 
 .product {
-	background: #fff url("assets/images/bg@1X\(1\).png") no-repeat right top;
+	background: #fff url("../assets/images/bg@1X\(1\).png") no-repeat right top;
 	background-size: 100% 100%
 }
 
@@ -589,7 +589,7 @@ nav span {
 }
 
 .testimony {
-	background: #fff url(assets/images/asphalt-1867667_1920@1X.png) no-repeat right top;
+	background: #fff url(../assets/images/asphalt-1867667_1920@1X.png) no-repeat right top;
 	background-size: 100% 100%;
 	color: #fff;
 	height: 930px
